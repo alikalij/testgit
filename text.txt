@@ -1,7 +1,3 @@
 this is new test file
 changed in github
-<<<<<<< HEAD
-change by client
-=======
 change by server
->>>>>>> f61c13b338ebf054fd62052d5c12b262c244be3a
